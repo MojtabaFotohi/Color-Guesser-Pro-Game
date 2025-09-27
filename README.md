@@ -19,6 +19,9 @@ Color Guesser Pro is an interactive web-based game where you test your color per
 
 Perfect for designers, artists, or anyone who loves a challenge. No frameworks needed – just vanilla web tech! 💻  
 
+
+![Color-Guesser-Pro-Game](./photo/image.png)
+
 ## Watch the game here https://mojtabafotohi.github.io/Color-Guesser-Pro-Game/
 
 ---
